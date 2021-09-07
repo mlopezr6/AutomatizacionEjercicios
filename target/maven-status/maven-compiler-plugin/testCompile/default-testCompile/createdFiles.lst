@@ -1,0 +1,7 @@
+stepsDefinitions\NewPets\NewPetssd.class
+steps\NewPets\Category.class
+steps\NewPets\NewPets.class
+steps\UpdatePets\UpdatesPets.class
+steps\NewPets\PetsCustomer.class
+stepsDefinitions\ConsultaPets\ConsultaPets.class
+steps\NewPets\Tags.class
